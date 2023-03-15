@@ -1,4 +1,5 @@
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=haoqiyung&show_icons=true&theme=radical" />
 
 ### 你好，世界 👋
 
@@ -8,5 +9,4 @@
 - :meat_on_bone: Meat lover
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=haoqiyung&show_icons=true&theme=radical" />
 
